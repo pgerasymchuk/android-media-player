@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="radio_title">Internet Radio</string>
+    <string name="play">Play</string>
+    <string name="new_playlist">New Playlist</string>
+    <string name="delete">Delete</string>
+    <string name="enter_media_url">Enter media URL</string>
+    <string name="add_url">Add URL</string>
+    <string name="add_file">Add File</string>
+    <string name="btn_delete">Delete</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="enter_radio_stream_url">Enter radio stream URL</string>
+    <string name="play_radio">Play Radio</string>
+    <string name="edit">Edit</string>
+</resources>
